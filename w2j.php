@@ -10,7 +10,7 @@ require_once ( JPATH_BASE .DS.'libraries'.DS.'joomla'.DS.'factory.php' );
 /* Create the Application */
 require_once("configuration.php");
 
-require_once("blog/wp-includes/formatting.php");
+require_once("formatting.php");
 
 /* Create the Application */
 $mainframe =& JFactory::getApplication('site');
