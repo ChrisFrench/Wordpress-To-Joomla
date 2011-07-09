@@ -1,3 +1,6 @@
 IMPORTS WORDPRESS into JOOMLA 1.5 and K2.
 
-currently assumes wordpress and joomla are in the same database 
+currently assumes wordpress and joomla are in the same database
+
+converts wordpress taxomony into k2 tags.
+currently everything is converted into k2 tags and placed into 1 k2 category
